@@ -93,6 +93,46 @@
                         </div><br>
                         <p>Sorry about your statue. You were incredible today Trevor. I w wish i was trained airforce pilot like you</p>
                     </div>
+                    <div class="mess">
+                        <img src="img/trevor/t_friends.png" alt="">
+                        <div>
+                            <h2>Ron Jakowski</h2>
+                            <h3>Posted an update</h3>
+                        </div><br>
+                        <p>Our own airstrip! Trevor Philips Industries! We're going places!</p>
+                    </div>
+                    <div class="mess">
+                        <img src="img/trevor/t_friends.png" alt="">
+                        <div>
+                            <h2>Ron Jakowski</h2>
+                            <h3>Posted an update</h3>
+                        </div><br>
+                        <p>Did you urinate in my moonshine still again?</p>
+                    </div>
+                    <div class="mess">
+                        <img src="img/trevor/t_friends.png" alt="">
+                        <div>
+                            <h2>Ron Jakowski</h2>
+                            <h3>Posted an update</h3>
+                        </div><br>
+                        <p>I think you're right - goverment definitely monitor these things</p>
+                    </div>
+                    <div class="mess">
+                        <img src="img/trevor/t_friends.png" alt="">
+                        <div>
+                            <h2>Ron Jakowski</h2>
+                            <h3>Posted an update</h3>
+                        </div><br>
+                        <p>Best thing you ever did scaring my wife off like that</p>
+                    </div>
+                    <div class="mess">
+                        <img src="img/trevor/t_friends.png" alt="">
+                        <div>
+                            <h2>Ron Jakowski</h2>
+                            <h3>Posted an update</h3>
+                        </div><br>
+                        <p>Trevor - you might be right. Social media isn't that fun</p>
+                    </div>
                 </div>
             </div>
             <div class="right"></div>

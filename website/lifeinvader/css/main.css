@@ -122,5 +122,7 @@ body {
         width: 86%;
         margin-top: 0;
         color: #6d6d6d; }
+      .newsfeed .left .feed .mess p {
+        line-height: 20px; }
 
 /*# sourceMappingURL=main.css.map */

@@ -1,0 +1,281 @@
+@font-face {
+  font-family: main;
+  src: url(/fonts/main-font.ttf); }
+a {
+  text-decoration: none;
+  color: black; }
+
+.search {
+  font-size: 20px;
+  display: inline-block;
+  width: 70%;
+  height: 45px;
+  margin-top: 20px;
+  padding-right: 3px;
+  padding-left: 4px;
+  border: none;
+  border-radius: 7px;
+  background: #fff; }
+  .search img {
+    height: 95%; }
+  .search input {
+    font-size: 20px;
+    margin-right: 3px;
+    outline: none;
+    background: white; }
+
+button {
+  font-size: 20px;
+  position: relative;
+  bottom: 10px;
+  display: inline-block;
+  float: right;
+  width: 25%;
+  height: 45px;
+  margin-top: 30px;
+  padding: 4px;
+  color: white;
+  border: none;
+  border-radius: 7px;
+  background: #047290; }
+
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 200px;
+  margin: 0 auto;
+  border-bottom: 8px solid #ffbe00;
+  background: #488bc2; }
+  .navbar .logo {
+    display: inline-block;
+    width: 220px; }
+  .navbar .navbar-stuff {
+    display: block;
+    width: 75%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 20px; }
+  .navbar .weather {
+    display: inline-block;
+    float: right;
+    margin-top: 20px;
+    margin-right: 0;
+    color: #fff; }
+    .navbar .weather img {
+      display: inline-block;
+      float: right;
+      width: 55px;
+      height: 55px;
+      margin-left: 10px;
+      padding-left: 20px;
+      border-left: 3px solid white; }
+
+.choose {
+  position: absolute;
+  top: 205px;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  border-bottom: 1px solid #dadada;
+  background: #f0f0f0; }
+  .choose .which {
+    display: block;
+    width: 75%;
+    margin: 0 auto; }
+    .choose .which :hover {
+      color: #488bc2; }
+    .choose .which div {
+      display: inline-block;
+      width: 19%;
+      height: 50px; }
+      .choose .which div img {
+        float: left;
+        height: 70%;
+        margin-top: 7px;
+        margin-left: 15px; }
+      .choose .which div p {
+        font-size: 13px;
+        display: inline-block;
+        margin-top: 13px;
+        margin-left: 20px;
+        text-align: center;
+        vertical-align: center; }
+
+a, p, h1, h2, h3, h4, span {
+  font-family: main; }
+
+.startpage {
+  display: block;
+  width: 75%;
+  margin: 0 auto;
+  margin-top: 280px;
+  margin-bottom: 100px; }
+  .startpage .left {
+    display: inline-block;
+    width: 69%; }
+    .startpage .left .nsotd {
+      display: inline-block;
+      width: 100%;
+      padding: 5px;
+      background: #f0f0f0; }
+      .startpage .left .nsotd h2 {
+        font-size: 20px;
+        display: inline-block;
+        padding: 10px;
+        color: #3c3c3c; }
+      .startpage .left .nsotd p {
+        font-size: 17px;
+        display: inline-block;
+        padding: 10px;
+        color: #3c3c3c; }
+      .startpage .left .nsotd img {
+        float: right;
+        width: 150px;
+        margin-top: 5px;
+        margin-right: 5px; }
+      .startpage .left .nsotd a {
+        font-size: 15px;
+        font-weight: bold;
+        margin-left: 10px;
+        padding-top: 15px; }
+    .startpage .left .nsotd_1 {
+      display: inline-block;
+      width: 100%;
+      height: 250px;
+      padding: 5px; }
+      .startpage .left .nsotd_1 h2 {
+        font-size: 20px;
+        display: inline-block;
+        padding: 10px;
+        color: #3c3c3c; }
+      .startpage .left .nsotd_1 p {
+        font-size: 17px;
+        line-height: 20px;
+        display: inline-block;
+        padding: 10px;
+        color: #3c3c3c; }
+      .startpage .left .nsotd_1 img {
+        float: left;
+        width: 250px;
+        margin-top: 5px;
+        margin-right: 5px; }
+      .startpage .left .nsotd_1 a {
+        font-size: 15px;
+        font-weight: bold;
+        margin-left: 10px;
+        padding-top: 15px; }
+    .startpage .left .wotm {
+      display: block;
+      width: 100%;
+      height: 150px;
+      margin-top: 10px;
+      padding: 5px;
+      background: #f0f0f0; }
+      .startpage .left .wotm img {
+        display: inline-block;
+        float: left;
+        height: 100px;
+        margin-right: 20px; }
+      .startpage .left .wotm h2 {
+        font-size: 20px;
+        display: block;
+        padding: 10px;
+        color: #3c3c3c; }
+      .startpage .left .wotm h3 {
+        font-size: 17px;
+        display: inline-block;
+        margin-top: 15px; }
+      .startpage .left .wotm p {
+        font-size: 14px;
+        margin-top: 10px;
+        margin-left: 20px;
+        padding-left: 20px;
+        color: #3c3c3c; }
+  .startpage .right {
+    display: block;
+    float: right;
+    width: 29%;
+    margin-left: 5px; }
+    .startpage .right .advertise {
+      display: block;
+      width: 100%;
+      padding-bottom: 5px;
+      background: #4f91c6; }
+      .startpage .right .advertise p {
+        padding: 3px;
+        text-align: center;
+        color: white; }
+      .startpage .right .advertise img {
+        display: block;
+        width: 98%;
+        margin: 0 auto; }
+    .startpage .right .bleets {
+      display: block;
+      width: 100%;
+      margin-top: 10px;
+      background: #f0f0f0; }
+      .startpage .right .bleets img {
+        display: inline-block;
+        float: left;
+        padding: 5px; }
+      .startpage .right .bleets h2 {
+        font-size: 17px;
+        display: inline-block;
+        margin-top: 16px;
+        margin-bottom: 25px;
+        margin-left: 15px; }
+      .startpage .right .bleets .bleet {
+        font-size: 15px;
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        padding: 10px; }
+        .startpage .right .bleets .bleet span {
+          color: #4c98ae; }
+        .startpage .right .bleets .bleet p {
+          font-size: 13px;
+          line-height: 17px; }
+  .startpage .featured {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    background: #f0f0f0; }
+    .startpage .featured h2 {
+      font-size: 20px;
+      display: block;
+      margin-bottom: 10px;
+      padding-top: 15px;
+      padding-left: 15px;
+      text-align: left;
+      color: #3c3c3c; }
+    .startpage .featured img {
+      display: inline-block;
+      width: 19%;
+      margin: 0; }
+  .startpage .link {
+    width: 100%;
+    height: 115px;
+    margin-bottom: 10px;
+    padding: 5px;
+    padding-right: 10px;
+    background: #f0f0f0; }
+    .startpage .link .link:hover {
+      border: 3px solid #488bc2; }
+    .startpage .link img {
+      display: inline-block;
+      float: left;
+      height: 99%;
+      margin-right: 20px; }
+    .startpage .link h2 {
+      font-size: 18px;
+      margin-top: 10px; }
+    .startpage .link p {
+      font-size: 15px;
+      margin-top: 10px;
+      color: #3c3c3c; }
+
+/*# sourceMappingURL=main.css.map */

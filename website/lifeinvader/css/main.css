@@ -1,0 +1,126 @@
+body {
+  background: #fbe3e0; }
+
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  background: linear-gradient(#c00100, #aa0201); }
+  .navbar div {
+    display: block;
+    width: 80%;
+    height: 100%;
+    margin: 0 auto; }
+    .navbar div img {
+      margin-top: 10px; }
+    .navbar div p {
+      font-size: 13px;
+      margin-top: 5px;
+      color: #fff; }
+
+.newsfeed {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 70px; }
+  .newsfeed .left .profile {
+    display: block;
+    width: 70%;
+    height: 300px;
+    border: 2px solid #eec8c8;
+    background: #fff; }
+    .newsfeed .left .profile .prof_picture {
+      position: absolute;
+      margin-top: 25px;
+      margin-left: 40px;
+      padding: 5px;
+      border: 3px solid #eec8c8; }
+    .newsfeed .left .profile .prof_info {
+      float: right;
+      width: 100%;
+      margin-top: 40px; }
+      .newsfeed .left .profile .prof_info h2 {
+        font-size: 25px;
+        margin-left: 20px;
+        margin-left: 43%;
+        color: #b40100; }
+      .newsfeed .left .profile .prof_info .occupation {
+        margin-top: 20px;
+        margin-left: 0;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background: #fbe3e0; }
+        .newsfeed .left .profile .prof_info .occupation p {
+          margin-left: 43%; }
+      .newsfeed .left .profile .prof_info .pfs {
+        float: right;
+        width: 57%;
+        margin-top: 20px;
+        background: none; }
+        .newsfeed .left .profile .prof_info .pfs .photos {
+          display: inline-block;
+          margin-right: 20px;
+          color: #b40100; }
+          .newsfeed .left .profile .prof_info .pfs .photos p {
+            font-size: 15px;
+            margin-top: 5px; }
+  .newsfeed .left .family {
+    display: inline-block;
+    width: 29%;
+    margin-top: 20px; }
+    .newsfeed .left .family .fam {
+      display: block;
+      height: 80px;
+      margin-bottom: 10px;
+      border-bottom: 1px solid #efcac9; }
+      .newsfeed .left .family .fam p {
+        font-size: 13px;
+        margin-bottom: 5px;
+        color: #b40100; }
+      .newsfeed .left .family .fam span {
+        font-size: 13px;
+        margin-left: 10px;
+        color: #000; }
+      .newsfeed .left .family .fam img {
+        float: left;
+        width: 50px;
+        height: 50px; }
+  .newsfeed .left .feed {
+    float: right;
+    width: 68%; }
+    .newsfeed .left .feed h2 {
+      font-size: 20px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-left: 10px; }
+    .newsfeed .left .feed .mess {
+      display: block;
+      display: inline-block;
+      float: right;
+      width: 100%;
+      padding: 5px;
+      border: 2px solid #eec8c8;
+      background: #fff;
+      margin-bottom: 10px; }
+      .newsfeed .left .feed .mess:hover {
+        border: 2px solid #aa0201; }
+      .newsfeed .left .feed .mess img {
+        display: inline-block;
+        float: left;
+        width: 50px;
+        height: 50px;
+        margin-right: 10px; }
+      .newsfeed .left .feed .mess h2 {
+        font-size: 15px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: left;
+        color: #b40100; }
+      .newsfeed .left .feed .mess h3 {
+        font-size: 13px;
+        width: 86%;
+        margin-top: 0;
+        color: #6d6d6d; }
+
+/*# sourceMappingURL=main.css.map */

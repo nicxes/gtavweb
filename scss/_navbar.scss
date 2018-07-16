@@ -1,0 +1,132 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.search {
+    font-size: 20px;
+    display: inline-block;
+    width: 70%;
+    height: 45px;
+    margin-top: 20px;
+    padding-right: 3px;
+    padding-left: 4px;
+    border: none;
+    border-radius: 7px;
+    background: #fff;
+
+    img {
+        height: 95%;
+    }
+    input {
+        font-size: 20px;
+        margin-right: 3px;
+        outline: none;
+        background: white;
+    }
+}
+
+
+button {
+    font-size: 20px;
+    position: relative;
+    bottom: 10px;
+    display: inline-block;
+    float: right;
+    width: 25%;
+    height: 45px;
+    margin-top: 30px;
+    padding: 4px;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    background: #047290;
+}
+
+
+.navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 200px;
+    margin: 0 auto;
+    border-bottom: 8px solid #ffbe00;
+    background: #488bc2;
+
+    .logo {
+        display: inline-block;
+        width: 220px;
+    }
+
+    .navbar-stuff {
+        display: block;
+        width: 75%;
+        height: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+
+
+    .weather {
+        display: inline-block;
+        float: right;
+        margin-top: 20px;
+        margin-right: 0;
+        color: #fff;
+
+        img {
+            display: inline-block;
+            float: right;
+            width: 55px;
+            height: 55px;
+            margin-left: 10px;
+            padding-left: 20px;
+            border-left: 3px solid white;
+        }
+    }
+}
+
+
+.choose {
+    position: absolute;
+    top: 205px;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid #dadada;
+    background: #f0f0f0;
+
+    .which {
+        display: block;
+        width: 75%;
+        margin: 0 auto;
+
+        :hover {
+            color: #488bc2;
+        }
+
+        div {
+            display: inline-block;
+            width: 19%;
+            height: 50px;
+
+            img {
+                float: left;
+                height: 70%;
+                margin-top: 7px;
+                margin-left: 15px;
+            }
+
+            p {
+                font-size: 13px;
+                display: inline-block;
+                margin-top: 13px;
+                margin-left: 20px;
+                text-align: center;
+                vertical-align: center;
+            }
+        }
+    }
+}

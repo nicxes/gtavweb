@@ -41,7 +41,7 @@
                     </div>
                 </div>
             </div>
-            <div style="width: 70%;">
+            <div style="width: 100%;">
                 <div class="family">
                     <div class="fam">
                         <p style="display: block;">Family 0</p>
@@ -66,7 +66,8 @@
                         <div>
                             <h2>Ron Jakowski</h2>
                             <h3>Posted an update</h3>
-                        </div><br>
+                        </div>
+                        <br>
                         <p>Ain't you gonna introduce me to your mom?</p>
                     </div>
                     <div class="mess">
@@ -74,7 +75,8 @@
                         <div>
                             <h2>Ron Jakowski</h2>
                             <h3>Posted an update</h3>
-                        </div><br>
+                        </div>
+                        <br>
                         <p>Do yout think Mexican maid can clean my trailer too?</p>
                     </div>
                     <div class="mess">
@@ -82,7 +84,8 @@
                         <div>
                             <h2>Ron Jakowski</h2>
                             <h3>Posted an update</h3>
-                        </div><br>
+                        </div>
+                        <br>
                         <p>Great to heve you back Trevor. The dream team! And I'll get you that gasoline</p>
                     </div>
                     <div class="mess">
@@ -90,7 +93,8 @@
                         <div>
                             <h2>Ron Jakowski</h2>
                             <h3>Posted an update</h3>
-                        </div><br>
+                        </div>
+                        <br>
                         <p>Sorry about your statue. You were incredible today Trevor. I w wish i was trained airforce pilot like you</p>
                     </div>
                     <div class="mess">
@@ -98,7 +102,8 @@
                         <div>
                             <h2>Ron Jakowski</h2>
                             <h3>Posted an update</h3>
-                        </div><br>
+                        </div>
+                        <br>
                         <p>Our own airstrip! Trevor Philips Industries! We're going places!</p>
                     </div>
                     <div class="mess">
@@ -106,7 +111,8 @@
                         <div>
                             <h2>Ron Jakowski</h2>
                             <h3>Posted an update</h3>
-                        </div><br>
+                        </div>
+                        <br>
                         <p>Did you urinate in my moonshine still again?</p>
                     </div>
                     <div class="mess">
@@ -114,7 +120,8 @@
                         <div>
                             <h2>Ron Jakowski</h2>
                             <h3>Posted an update</h3>
-                        </div><br>
+                        </div>
+                        <br>
                         <p>I think you're right - goverment definitely monitor these things</p>
                     </div>
                     <div class="mess">
@@ -122,7 +129,8 @@
                         <div>
                             <h2>Ron Jakowski</h2>
                             <h3>Posted an update</h3>
-                        </div><br>
+                        </div>
+                        <br>
                         <p>Best thing you ever did scaring my wife off like that</p>
                     </div>
                     <div class="mess">
@@ -130,13 +138,21 @@
                         <div>
                             <h2>Ron Jakowski</h2>
                             <h3>Posted an update</h3>
-                        </div><br>
+                        </div>
+                        <br>
                         <p>Trevor - you might be right. Social media isn't that fun</p>
                     </div>
                 </div>
             </div>
-            <div class="right"></div>
         </div>
+        <div class="right">
+            <h2>SPONSORED ADVERT</h2>
+            <img src="img/kifflom.png" alt="">
+            <img src="img/bleeter.png" alt="">
+            <img src="img/alama.png" alt="">
+            <img src="img/princess.png" alt="">
+        </div>
+    </div>
 </body>
 
 </html>

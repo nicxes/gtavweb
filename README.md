@@ -2,8 +2,6 @@
 
 GTA V Web is a project to bring Grand Theft Auto V websites to real life
 
-Project is heavily WiP
-
 ## Sites finished
 - www.eyefind.info
 - www.lifeinvader.com (main char feeds done)

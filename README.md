@@ -6,6 +6,7 @@ Project is heavily WiP
 
 ## Sites finished
 - www.eyefind.info
+- www.lifeinvader.com (main char feeds done)
 
 ## Sites to go
 - www.abstinentamerica.com
@@ -45,7 +46,6 @@ Project is heavily WiP
 - www.lcn.exchange.com
 - www.legendarymotorsports.net
 - www.lennyavery-realty.com
-- www.lifeinvader.com
 - www.lossantoscustoms.com
 - www.lossantosfreegans.com
 - www.manopauseadventures.com

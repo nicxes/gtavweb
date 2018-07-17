@@ -173,7 +173,7 @@
                             <h3>Posted an update</h3>
                         </div>
                         <br>
-                        <p>We can do this. I know that this family is too irreparably damaged to have any hope of a normal relationship with anyone else. We're stuck with each other. And that's clos to a "I love you" ad I've been in very long time.</p>
+                        <p>We can do this. I know that this family is too irreparably damaged to have any hope of a normal relationship with anyone else. We're stuck with each other. And that's close to a "I love you" ad I've been in very long time.</p>
                     </div>
                     <div class="mess">
                         <img src="img/michael/tracey.png" alt="">
@@ -380,7 +380,7 @@
                             <h3>Posted an update</h3>
                         </div>
                         <br>
-                        <p>I thought you promised me we'd never see that psycho again? This clean slte of youts seems to be getting dirtier by the day.</p>
+                        <p>I thought you promised me we'd never see that psycho again? This clean slate of yours seems to be getting dirtier by the day.</p>
                     </div>
                     <div class="mess">
                         <img src="img/michael/tracey.png" alt="">
@@ -416,7 +416,7 @@
                             <h3>Posted an update</h3>
                         </div>
                         <br>
-                        <p>Don't get any ideas. The only reason i tracked you downwas becasue I don't want you to think that winning that run was anything other than poor mismanagement of carbs on my part. Just so we're both clear that on any other day I would have annihilated you. Best, MaryAnn.</p>
+                        <p>Don't get any ideas. The only reason i tracked you down was because I don't want you to think that winning that run was anything other than poor mismanagement of carbs on my part. Just so we're both clear that on any other day I would have annihilated you. Best, MaryAnn.</p>
                     </div>
                     <div class="mess">
                         <img src="img/michael/amanda.png" alt="">
@@ -425,7 +425,7 @@
                             <h3>Posted an update</h3>
                         </div>
                         <br>
-                        <p>I realize it's been a bad run recently what with the misunderstanfing with the tennis coach and now the misunderstanding with the shoplifting but if there was ever a man who didn't havethe right to judge? Try to focus more not on what I am doing but WHY I am doing it</p>
+                        <p>I realize it's been a bad run recently what with the misunderstanding with the tennis coach and now the misunderstanding with the shoplifting but if there was ever a man who didn't have the right to judge? Try to focus more not on what I am doing but WHY I am doing it</p>
                     </div>
                     <div class="mess">
                         <img src="img/michael/jimmy.png" alt="">
@@ -434,7 +434,7 @@
                             <h3>Posted an update</h3>
                         </div>
                         <br>
-                        <p>So seriously what is the new TV situation? Becasue this needs to get rectified like asap</p>
+                        <p>So seriously what is the new TV situation? Because this needs to get rectified like asap</p>
                     </div>
                     <div class="mess">
                         <img src="img/michael/tracey.png" alt="">
@@ -443,7 +443,7 @@
                             <h3>Posted an update</h3>
                         </div>
                         <br>
-                        <p>I hate you. How could you embarass me like that? Why do you have to be such a fucking caveman? A couple of the guys on te yacht were legitimate industry people. Are you trying to ruin the rest of my life? Do anything like that again and I really will get into porn just to punish you</p>
+                        <p>I hate you. How could you embarrass me like that? Why do you have to be such a fucking caveman? A couple of the guys on the yacht were legitimate industry people. Are you trying to ruin the rest of my life? Do anything like that again and I really will get into porn just to punish you</p>
                     </div>
                     <div class="mess">
                         <img src="img/michael/jimmy.png" alt="">
@@ -452,7 +452,7 @@
                             <h3>Posted an update</h3>
                         </div>
                         <br>
-                        <p>Good hanging out at Vespucci Beach, pop. I think. Although I'm kind of weirded out by it. And I have these scary pains in my tights. Let's just do something inside next time where my glandualr issues and your anger issues won't get us in trouble?</p>
+                        <p>Good hanging out at Vespucci Beach, pop. I think. Although I'm kind of weirded out by it. And I have these scary pains in my tights. Let's just do something inside next time where my glandular issues and your anger issues won't get us in trouble?</p>
                     </div>
                     <div class="mess">
                         <img src="img/michael/lester.png" alt="">
@@ -470,7 +470,7 @@
                             <h3>Posted an update</h3>
                         </div>
                         <br>
-                        <p>Ok, I'd say you;ve atoned for that decade of poor friendship. How ironic we're both on Lifeinvader? Too soon?</p>
+                        <p>Ok, I'd say you've atoned for that decade of poor friendship. How ironic we're both on Lifeinvader? Too soon?</p>
                     </div>
                     <div class="mess">
                         <img src="img/michael/hayden.png" alt="">
@@ -533,7 +533,7 @@
                             <h3>Posted an update</h3>
                         </div>
                         <br>
-                        <p>Keep leaving voicemails about gold - anyone would think you were ignoring me, neighbor :)</p>
+                        <p>Keep leaving voice-mails about gold - anyone would think you were ignoring me, neighbor :)</p>
                     </div>
                     <div class="mess">
                         <img src="img/michael/tracey.png" alt="">

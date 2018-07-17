@@ -68,8 +68,8 @@
                             <img src="img/trevor/trevor_prof.png" alt="">
                             <span>Trevor Phillips</span>
                         </a>
-                        <a href="" title="">
-                            <img src="img/franklin/lamar.png" alt="">
+                        <a href="michael.php" title="">
+                            <img src="img/michael/michael.png" alt="">
                             <span>Michael De Santa</span>
                         </a>
                     </div>

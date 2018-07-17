@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>--- EYEFIND... It's like a series of tubes ---</title>
+    <title>Lifeinvader - Putting your personal life in the public domain</title>
     <link rel="stylesheet" type="text/css" href="/css/reset.css">
     <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
@@ -57,6 +57,21 @@
                         <p style="display: block;">Stalking 1</p>
                         <img src="img/trevor/t_stalking.png" alt="">
                         <span>Ludendorff</span>
+                    </div>
+                    <div class="fam" style="border-bottom: none; margin-top: 50px;">
+                        <p style="display: block;">Switch accounts</p>
+                        <a href="franklin.php" title="">
+                            <img src="img/franklin/profile.png" alt="">
+                            <span>Franklin Clinton</span>
+                        </a>
+                        <a href="trevor.php" title="">
+                            <img src="img/trevor/trevor_prof.png" alt="">
+                            <span>Trevor Phillips</span>
+                        </a>
+                        <a href="" title="">
+                            <img src="img/franklin/lamar.png" alt="">
+                            <span>Michael De Santa</span>
+                        </a>
                     </div>
                 </div>
                 <div class="feed">

@@ -12,7 +12,7 @@
     <?php include '../navbar.php';?>
     <div class="startpage">
         <h2 style="font-size: 20px; margin-bottom: 20px;">Results for: MEDIA AND ENTERTAIMENT</h2>
-        <a href="/website/lifeinvader" title="">
+        <a href="/website/lifeinvader/trevor.php" title="">
             <div class="link">
                 <img src="/img/links/mae/lifeinvader.png" alt="">
                 <h2>www.lifeinvader.com</h2>

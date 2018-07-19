@@ -15,7 +15,7 @@
             <div class="nsotd_1">
                 <img src="/img/ls24.png" alt="LS24">
                 <p style="margin-top: 10px;">Hot Party at the Gentry Manor hotel.</p>
-                <p>Jenny Henderson - LS24
+                <p>Jenny Henderson - LS2
                     <br>OMG there were so many celebrities by the pool yesterday at the Gentry Manor Hotel it was like an orgy of ego. English Actor Scott Stephens lounged by the bar and eventually left with Delancey Medua. In a rare appearance January Natasha Vasquez showed up with the most amazing dress on, before getting drunk and making out with an unknown guy in the bathroom. (Wow! Touching a civilian!) Celebrities across town are packing the Genry Manor Motel while doing voiceover work for the animated movie Dingleberry, a Freds production that is expected to hit theaters in the spring. Local film producers say this is the reason terrible movies cost $200 million to make</p>
             </div>
         </div>

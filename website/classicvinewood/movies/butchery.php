@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>A tear-jerky, pseudo-feminist melodrama about "ordinary people" (I.e. bored rich socialites in Liberty City) having cowardly affairs, doing coke in disco boots, getting divorced and fighting for custody of their over-privileged, one-dimensional children in the 1970s. •An American Divorce" won lots of awards because it captured the zeitgeist of a decade that completely threw in the towel on moral responsibility and musical taste. After an hour and a half of watching upper-middleclass white people with enormous afros weep in Algonquin cafes and spurting mawkish dialogue like "But my kids are my life!" and "It's time I did something for myself!" , the inevitable happy ending can't come fast enough. We won't ruin it for you, but everyone dies, thank God.
 <html>
 
 <head>
@@ -16,17 +16,18 @@
             <img src="../img/roll.png" alt="">
             <div class="movietext">
                 <div class="left">
-                    <img src="../img/covers/harridan.jpg" alt="">
+                    <img src="../img/covers/butchery.jpg" alt="">
                     <a href="../list.php" title="">
                         <p class="fact">Back to the classics</p>
                     </a>
                 </div>
                 <div class="right">
                     <div class="title">
-                        <p></p>
-                        <p></p>
+                        <p>Butchery And Other Hobbies (1983)</p>
+                        <p>A Dreyfuss Production</p>
                     </div>
-                    <p class="about"></p>
+                    <p class="about">What would you do if you woke up in someone else's body? Go on a sex crime spree? This is a body-swap movie classic. A freak leap year eclipse meteor causes 65-year-old serial-killer Brent Mayfield and gay 18-year-old Ryan Lockhart to switch bodies. The first part of the movie we see the 18 tumed 65-year-old weeping at his turgid penis, while the 65-year-old in an 18-year-old's body contracts 5 sexually transmitted diseases within a week. A dark, madcap screwball comedy ensues, and lots Of people are knifed. An uncomfortable dance scene with a lonely immigrant worker from his local bodega (played by Joanie Term with one of the worst Spanish accents in movie history) has been criticized by many as "unnecessarily exploitative" and "basically statutory rape". However, other than this one blip and the convenient lack Of consequences for any of Brent's/Ryan's heinous crimes, nautchery And Other Hobbies' is generally considered to be a gem of the 1980s that culminates in one of the most unexpected twists in comedy history (spoiler alert): Ryan is really Brent's long-lost son. It is thought this movie inspired "Knife After Dark".
+                    </p>
                 </div>
                 <img style="width: 100%; margin-top: 20px;" src="img/roll.png" alt="">
                 <img style="display: block; margin: 0 auto; margin-top: 20px;" src="img/leonoraad.jpg" alt="">

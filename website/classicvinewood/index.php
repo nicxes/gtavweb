@@ -23,31 +23,31 @@
                 <h3>Here are some Vinewood classics not to be missed.</h3>
             </div>
             <div class="right">
-                <a href="" title="">
+                <a href="movies/manywives.php" title="">
                     <img src="img/covers/bullwhip.jpg" alt="">
                 </a>
-                <a href="" title="">
+                <a href="movies/highschool.php" title="">
                     <img src="img/covers/highschool.jpg" alt="">
                 </a>
-                <a href="" title="">
+                <a href="movies/rumrunner.php" title="">
                     <img src="img/covers/rumrunner.jpg" alt="">
                 </a>
-                <a href="" title="">
+                <a href="movies/manywives.php" title="">
                     <img src="img/covers/manywives.jpg" alt="">
                 </a>
                 <a href="list.php" title="">
                     <p>Click here or any movie to take a trip down Vinewood memory lane.</p>
                 </a>
-                <a href="" title="">
+                <a href="movies/divorce.php" title="">
                     <img src="img/covers/americandivorce.jpg" alt="">
                 </a>
-                <a href="" title="">
+                <a href="movies/vinewood.php" title="">
                     <img src="img/covers/vinewoodzombie.jpg" alt="">
                 </a>
-                <a href="" title="">
+                <a href="movies/shoulder.php" title="">
                     <img src="img/covers/shoulderoforion.jpg" alt="">
                 </a>
-                <a href="" title="">
+                <a href="movies/sanitorium.php" title="">
                     <img src="img/covers/sanitorium.jpg" alt="">
                 </a>
                 <img style="width: 100%; height:30px;" src="img/rollshort.png" alt="">

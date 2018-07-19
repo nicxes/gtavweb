@@ -22,118 +22,118 @@
                     <p>Year: (1933)</p>
                 </div>
             </a>
-            <a href="" title="">
+            <a href="movies/triton.php" title="">
                 <div class="movie">
                     <img src="img/covers/curseoftriton.jpg" alt="">
                     <p>Curse of Triton</p>
                     <p>Year: (1941)</p>
                 </div>
             </a>
-            <a href="" title="">
+            <a href="movies/bullwhip.php" title="">
                 <div class="movie">
                     <img src="img/covers/bullwhip.jpg" alt="">
                     <p>Bullwhip Fury</p>
                     <p>Year: (1952)</p>
                 </div>
             </a>
-            <a href="" title="">
+            <a href="movies/capolavoro.php" title="">
                 <div class="movie">
                     <img src="img/covers/capolavaro.jpg" alt="">
                     <p>Capolavoro</p>
                     <p>Year: (1964)</p>
                 </div>
             </a>
-            <a href="" title="">
+            <a href="movies/nelson.php" title="">
                 <div class="movie">
                     <img src="img/covers/nelson.jpg" alt="">
                     <p>Nelson In Naples</p>
                     <p>Year: (1968)</p>
                 </div>
             </a>
-            <a href="" title="">
+            <a href="movies/highschool.php" title="">
                 <div class="movie">
                     <img src="img/covers/highschool.jpg" alt="">
                     <p>High School</p>
                     <p>Year: (1969)</p>
                 </div>
-                <a href="" title="">
+                <a href="movies/rumrunner.php" title="">
                     <div class="movie">
                         <img src="img/covers/rumrunner.jpg" alt="">
                         <p>Rum Runner</p>
                         <p>Year: (1973)</p>
                     </div>
                 </a>
-                <a href="" title="">
+                <a href="movies/manywives.php" title="">
                     <div class="movie">
                         <img src="img/covers/manywives.jpg" alt="">
                         <p>The many Wives of...</p>
                         <p>Year: (1975)</p>
                     </div>
                 </a>
-                <a href="" title="">
+                <a href="movies/buryme.php" title="">
                     <div class="movie">
                         <img src="img/covers/buryme.jpg" alt="">
                         <p>Bury Me</p>
                         <p>Year: (1977)</p>
                     </div>
                 </a>
-                <a href="" title="">
+                <a href="movies/divorce.php" title="">
                     <div class="movie">
                         <img src="img/covers/americandivorce.jpg" alt="">
                         <p>An American Divorce</p>
                         <p>Year: (1978)</p>
                     </div>
                 </a>
-                <a href="" title="">
+                <a href="movies/vinewood.php" title="">
                     <div class="movie">
                         <img src="img/covers/vinewoodzombie.jpg" alt="">
                         <p>Vinewood Zombie</p>
                         <p>Year: (1981)</p>
                     </div>
                 </a>
-                <a href="" title="">
+                <a href="movies/butchery.php" title="">
                     <div class="movie">
                         <img src="img/covers/butchery.jpg" alt="">
                         <p>Butchery and other...</p>
                         <p>Year: (1983)</p>
                     </div>
                 </a>
-                <a href="" title="">
+                <a href="movies/lions.php" title="">
                     <div class="movie">
                         <img src="img/covers/lions.jpg" alt="">
                         <p>Lions & Donkeys</p>
                         <p>Year: (1984)</p>
                     </div>
                 </a>
-                <a href="" title="">
+                <a href="movies/blueblood.php" title="">
                     <div class="movie">
                         <img src="img/covers/blueblood.png" alt="">
                         <p>Blue Blood</p>
                         <p>Year: (1986)</p>
                     </div>
                 </a>
-                <a href="" title="">
+                <a href="movies/redeemer.php" title="">
                     <div class="movie">
                         <img src="img/covers/reddemer.jpg" alt="">
                         <p>The Redeemer</p>
                         <p>Year: (1989)</p>
                     </div>
                 </a>
-                <a href="" title="">
+                <a href="movies/lastwill.php" title="">
                     <div class="movie">
                         <img src="img/covers/lastwill.jpg" alt="">
                         <p>Last Will and Testament</p>
                         <p>Year: (1991)</p>
                     </div>
                 </a>
-                <a href="" title="">
+                <a href="movies/shoulder.php" title="">
                     <div class="movie">
                         <img src="img/covers/shoulderoforion.jpg" alt="">
                         <p>The Shoulder of Orion II</p>
                         <p>Year: (1992)</p>
                     </div>
                 </a>
-                <a href="" title="">
+                <a href="movies/sanitorium.php" title="">
                     <div class="movie">
                         <img src="img/covers/sanitorium.jpg" alt="">
                         <p>Arthur Penny's Sanitorium</p>

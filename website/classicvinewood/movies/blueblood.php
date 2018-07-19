@@ -16,17 +16,18 @@
             <img src="../img/roll.png" alt="">
             <div class="movietext">
                 <div class="left">
-                    <img src="../img/covers/harridan.jpg" alt="">
+                    <img src="../img/covers/blueblood.png" alt="">
                     <a href="../list.php" title="">
                         <p class="fact">Back to the classics</p>
                     </a>
                 </div>
                 <div class="right">
                     <div class="title">
-                        <p></p>
-                        <p></p>
+                        <p>Blue Blood (1986)</p>
+                        <p>A Dreyfuss Productions</p>
                     </div>
-                    <p class="about"></p>
+                    <p class="about">The Vinewood brat pack are reunited in yet another coming-of-age story about narcissistic Rockford Hills high school graduates partying hard for one last summer before they all leave for college. Wrecked sports cars, bodies in swimming pools, emptied trust funds, botched abortions, piles of cocaine, it's what the 80s were all about. What happens when ten impossibly vacUOUS and good-looking 18-year-olds become disillusioned with all their wealth and privilege? They party 'til people die, accompanied by a wicked synthesizer soundtrack. rs a theme that every young person can relate to. Acclaimed by sorne as the quintessential depiction of rich, decadent youth culture in 1980s Los Santos. It has stood the test of time as a fantastic masturbation movie.
+                    </p>
                 </div>
                 <img style="width: 100%; margin-top: 20px;" src="img/roll.png" alt="">
                 <img style="display: block; margin: 0 auto; margin-top: 20px;" src="img/leonoraad.jpg" alt="">

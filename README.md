@@ -5,6 +5,7 @@ GTA V Web is a project to bring Grand Theft Auto V websites to real life
 ## Sites finished
 - www.eyefind.info
 - www.lifeinvader.com (main char feeds done)
+- www.classicvinewood.com (no comments, will be done later probably)
 
 ## Sites to go
 - www.abstinentamerica.com
@@ -18,7 +19,6 @@ GTA V Web is a project to bring Grand Theft Auto V websites to real life
 - www.bullsharktestosterone.com
 - www.cashfordeadreams.com
 - www.chainsofintimacy.com
-- www.classicvinewood.com
 - www.creditcardconsolidationkings.com
 - www.cultstopers.com
 - www.docktease.com

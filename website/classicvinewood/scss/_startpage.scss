@@ -1,0 +1,151 @@
+
+@font-face {
+    font-family: hollywood;
+
+    src: url(../okuda.ttf);
+}
+
+body {
+    background: #333;
+}
+
+.maindiv {
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 100px;
+    background: #58595b;
+    .logo {
+        display: inline-block;
+    }
+    h2 {
+        font-family: hollywood;
+        font-size: 30px;
+        display: inline-block;
+        float: right;
+        margin-top: 100px;
+        margin-right: 150px;
+        text-align: center;
+        color: #f5c836;
+    }
+    .info {
+        display: block;
+        width: 95%;
+        margin: 0 auto;
+        padding-bottom: -5px;
+        background: #e6e7e8;
+        img {
+            width: 100%;
+        }
+        .left {
+            display: inline-block;
+            width: 55%;
+            margin-left: 10px;
+            h3 {
+                font-family: hollywood;
+                font-size: 28px;
+                margin-top: 10px;
+                color: #c89e48;
+            }
+            p {
+                font-size: 15px;
+                line-height: 20px;
+                margin-top: 10px;
+                color: #616264;
+            }
+        }
+        .right {
+            display: inline-block;
+            float: right;
+            width: 40%;
+            height: 300px;
+            margin-right: 10px;
+            img {
+                width: 79px;
+                height: 125px;
+                margin-top: 10px;
+                margin-bottom: 10px;
+                margin-left: 5px;
+            }
+
+            a {
+                width: 100%;
+                height: 70px;
+                margin-top: 10px;
+                text-align: center;
+                color: #8a8b8d;
+
+
+                p {
+                    font-family: hollywood;
+                    font-size: 28px;
+                    padding: 20px;
+                    color: #8a8b8d;
+                    border: 3px solid #f9ca34;
+                    background: linear-gradient(#fbcc33, #c4932d);
+                }
+            }
+        }
+    }
+    .classic {
+        display: block;
+        width: 95%;
+        margin: 0 auto;
+        margin-left: 20px;
+        h3 {
+            font-family: hollywood;
+            font-size: 30px;
+            margin-top: 20px;
+            margin-left: 30px;
+            color: #f5c836;
+        }
+        .left {
+            display: inline-block;
+            float: left;
+            width: 28%;
+            margin-top: 50px;
+            img {
+                display: block;
+                width: 183px;
+                margin: 0 auto;
+            }
+            p {
+                font-family: hollywood;
+                font-size: 25px;
+                display: block;
+                width: 183px;
+                margin: 0 auto;
+                margin-top: 50px;
+                text-align: center;
+                color: #58595b;
+                border: 3px solid #f9ca34;
+                background: linear-gradient(#fbcc33, #c4932d);
+            }
+        }
+        .right {
+            display: inline-block;
+            width: 70%;
+            height: 400px;
+            margin-top: 50px;
+            border: 3px solid #f9ca34;
+            background: #fff;
+            .title {
+                width: 100%;
+                height: 70px;
+                background: linear-gradient(#fbcc33, #c4932d);
+                p {
+                    font-family: hollywood;
+                    font-size: 25px;
+                    margin-left: 20px;
+                    padding-top: 5px;
+                    color: #616264;
+                }
+            }
+            .about {
+                font-size: 15px;
+                line-height: 20px;
+                margin: 10px 10px 10px 10px;
+            }
+        }
+    }
+}

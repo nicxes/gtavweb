@@ -24,31 +24,31 @@
             </div>
             <div class="right">
                 <a href="" title="">
-            		<img src="img/bullwhip.jpg" alt="">
+            		<img src="img/covers/bullwhip.jpg" alt="">
             	</a>
                 <a href="" title="">
-            		<img src="img/highschool.jpg" alt="">
+            		<img src="img/covers/highschool.jpg" alt="">
             	</a>
                 <a href="" title="">
-            		<img src="img/rumrunner.jpg" alt="">
+            		<img src="img/covers/rumrunner.jpg" alt="">
             	</a>
                 <a href="" title="">
-            		<img src="img/manywives.jpg" alt="">
+            		<img src="img/covers/manywives.jpg" alt="">
             	</a>
-                <a href="" title="">
+                <a href="list.php" title="">
                     <p>Click here or any movie to take a trip down Vinewood memory lane.</p>
                 </a>
                 <a href="" title="">
-            		<img src="img/americandivorce.jpg" alt="">
+            		<img src="img/covers/americandivorce.jpg" alt="">
             	</a>
                 <a href="" title="">
-            		<img src="img/vinewoodzombie.jpg" alt="">
+            		<img src="img/covers/vinewoodzombie.jpg" alt="">
             	</a>
                 <a href="" title="">
-            		<img src="img/shoulderoforion.jpg" alt="">
+            		<img src="img/covers/shoulderoforion.jpg" alt="">
             	</a>
                 <a href="" title="">
-            		<img src="img/sanitorium.jpg" alt="">
+            		<img src="img/covers/sanitorium.jpg" alt="">
             	</a>
                 <img style="width: 100%; height:30px;" src="img/rollshort.png" alt="">
             </div>
@@ -57,7 +57,7 @@
         <div class="classic">
             <h3>Featured classic...</h3>
             <div class="left">
-                <img src="img/curseoftriton.jpg" alt="">
+                <img src="img/covers/curseoftriton.jpg" alt="">
                 <p class="fact">Classic Fact
                     <br> That was the first leading role for baseball star Ace Jones! </p>
             </div>

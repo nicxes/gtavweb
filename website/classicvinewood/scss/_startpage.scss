@@ -11,9 +11,11 @@ body {
 
 .maindiv {
     display: block;
-    width: 70%;
+    width: 75%;
     margin: 0 auto;
     padding-bottom: 100px;
+    border-right: 10px solid #2e2b2c;
+    border-left: 10px solid #2e2b2c;
     background: #58595b;
     .logo {
         display: inline-block;
@@ -61,8 +63,8 @@ body {
             height: 300px;
             margin-right: 10px;
             img {
-                width: 79px;
-                height: 125px;
+                width: 22%;
+                height: 120px;
                 margin-top: 10px;
                 margin-bottom: 10px;
                 margin-left: 5px;
@@ -145,6 +147,104 @@ body {
                 font-size: 15px;
                 line-height: 20px;
                 margin: 10px 10px 10px 10px;
+            }
+        }
+    }
+    .click {
+        font-family: hollywood;
+        font-size: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        text-align: left;
+        color: #c89e48;
+    }
+    .partners {
+        display: inline-block;
+        float: right;
+        width: 40%;
+        height: 100px;
+        margin-right: 10px;
+    }
+    .movie {
+        display: inline-block;
+        width: 17%;
+        margin: 0 auto;
+        margin-right: 9px;
+        margin-bottom: 20px;
+        margin-left: 9px;
+        img {
+            width: 100%;
+            height: 220px;
+        }
+        p {
+            font-size: 11px;
+            margin-top: 5px;
+            text-align: left;
+            color: #58595b;
+        }
+    }
+    .movietext {
+        display: block;
+        width: 95%;
+        margin: 0 auto;
+        margin-left: 10px;
+        h3 {
+            font-family: hollywood;
+            font-size: 30px;
+            margin-top: 20px;
+            margin-left: 30px;
+            color: #f5c836;
+        }
+        .left {
+            display: inline-block;
+            float: left;
+            width: 22%;
+            margin-top: 10px;
+            img {
+                display: block;
+                width: 100%;
+                margin: 0 auto;
+                margin-left: 0px;
+
+            }
+            p {
+                font-family: hollywood;
+                font-size: 25px;
+                display: block;
+                width: 100%;
+                margin: 0 auto;
+                margin-top: 50px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                text-align: center;
+                color: #58595b;
+                border: 3px solid #f9ca34;
+                background: linear-gradient(#fbcc33, #c4932d);
+            }
+        }
+        .right {
+            display: inline-block;
+            width: 74%;
+            margin-top: 10px;
+            .title {
+                width: 100%;
+                height: 70px;
+                background: linear-gradient(#fbcc33, #c4932d);
+                border: 3px solid #f5d46a;
+                p {
+                    font-family: hollywood;
+                    font-size: 25px;
+                    margin-left: 20px;
+                    padding-top: 5px;
+                    color: #616264;
+                }
+            }
+            .about {
+                font-size: 15px;
+                line-height: 20px;
+                margin: 10px 10px 10px 10px;
+                color: #58595b;
             }
         }
     }

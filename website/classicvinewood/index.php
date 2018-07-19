@@ -24,32 +24,32 @@
             </div>
             <div class="right">
                 <a href="" title="">
-            		<img src="img/covers/bullwhip.jpg" alt="">
-            	</a>
+                    <img src="img/covers/bullwhip.jpg" alt="">
+                </a>
                 <a href="" title="">
-            		<img src="img/covers/highschool.jpg" alt="">
-            	</a>
+                    <img src="img/covers/highschool.jpg" alt="">
+                </a>
                 <a href="" title="">
-            		<img src="img/covers/rumrunner.jpg" alt="">
-            	</a>
+                    <img src="img/covers/rumrunner.jpg" alt="">
+                </a>
                 <a href="" title="">
-            		<img src="img/covers/manywives.jpg" alt="">
-            	</a>
+                    <img src="img/covers/manywives.jpg" alt="">
+                </a>
                 <a href="list.php" title="">
                     <p>Click here or any movie to take a trip down Vinewood memory lane.</p>
                 </a>
                 <a href="" title="">
-            		<img src="img/covers/americandivorce.jpg" alt="">
-            	</a>
+                    <img src="img/covers/americandivorce.jpg" alt="">
+                </a>
                 <a href="" title="">
-            		<img src="img/covers/vinewoodzombie.jpg" alt="">
-            	</a>
+                    <img src="img/covers/vinewoodzombie.jpg" alt="">
+                </a>
                 <a href="" title="">
-            		<img src="img/covers/shoulderoforion.jpg" alt="">
-            	</a>
+                    <img src="img/covers/shoulderoforion.jpg" alt="">
+                </a>
                 <a href="" title="">
-            		<img src="img/covers/sanitorium.jpg" alt="">
-            	</a>
+                    <img src="img/covers/sanitorium.jpg" alt="">
+                </a>
                 <img style="width: 100%; height:30px;" src="img/rollshort.png" alt="">
             </div>
             <img style="margin-bottom: -5px;" src="img/roll.png" alt="">

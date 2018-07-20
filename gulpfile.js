@@ -12,8 +12,3 @@ gulp.task('images', function(){
   .pipe(imagemin())
   .pipe(gulp.dest('website/classicvinewood/img/covers/'))
 });
-
-var del = require('del');
-gulp.task('clean:dist', function() {
-  return del.sync('dist');
-})

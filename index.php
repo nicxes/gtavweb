@@ -6,6 +6,8 @@
     <title>--- EYEFIND... It's like a series of tubes ---</title>
     <link rel="stylesheet" type="text/css" href="/css/reset.css">
     <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81221049-12"></script>
+    <script src="/script/ganalytics.js"></script>
 </head>
 
 <body>

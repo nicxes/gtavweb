@@ -1,4 +1,4 @@
-<!DOCTYPE html>A tear-jerky, pseudo-feminist melodrama about "ordinary people" (I.e. bored rich socialites in Liberty City) having cowardly affairs, doing coke in disco boots, getting divorced and fighting for custody of their over-privileged, one-dimensional children in the 1970s. •An American Divorce" won lots of awards because it captured the zeitgeist of a decade that completely threw in the towel on moral responsibility and musical taste. After an hour and a half of watching upper-middleclass white people with enormous afros weep in Algonquin cafes and spurting mawkish dialogue like "But my kids are my life!" and "It's time I did something for myself!" , the inevitable happy ending can't come fast enough. We won't ruin it for you, but everyone dies, thank God.
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -6,6 +6,8 @@
     <title>Classicvinewood</title>
     <link rel="stylesheet" type="text/css" href="/css/reset.css">
     <link rel="stylesheet" type="text/css" href="../css/main.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81221049-12"></script>
+    <script src="/script/ganalytics.js"></script>
 </head>
 
 <body>

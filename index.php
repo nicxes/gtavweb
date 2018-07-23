@@ -16,7 +16,7 @@
         <div class="left">
             <div class="nsotd">
                 <img src="/img/ls24.png" alt="LS24">
-                <h2>NEWS STORY OF THE DA</h2>
+                <h2>NEWS STORY OF THE DAY</h2>
                 <p style="margin-top: 10px;">Hot Party at the Gentry Manor hotel.</p>
                 <p style="margin-top: 10px;">Jenny Henderson - LS24</p>
                 <p>OMG there were so many celebrities by the pool yesterday at the Gentry Manor Hotel it was like an orgy of ego. English Actor Scott Stephens lounged by the bar and eventually left with Delancey Medua. In a rare appearance January Natasha..</p>

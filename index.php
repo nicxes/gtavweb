@@ -31,7 +31,7 @@
         </div>
         <div class="right">
             <div class="advertise">
-                <p>Sponsored Adver</p>
+                <p>Sponsored Advert</p>
                 <img src="img/sas.png" alt="SAS">
             </div>
             <div class="bleets">

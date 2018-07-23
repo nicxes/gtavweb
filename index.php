@@ -31,7 +31,7 @@
         </div>
         <div class="right">
             <div class="advertise">
-                <p>Sponsored Advert</p>
+                <p>Sponsored Adver</p>
                 <img src="img/sas.png" alt="SAS">
             </div>
             <div class="bleets">
@@ -39,7 +39,8 @@
                 <h2>RECENT BLEETS</h2>
                 <div class="bleet">
                     <span>@sarahboptician</span>
-                    <p>Could someone please give me directions <br> to my happy place</p>
+                    <p>Could someone please give me directions
+                        <br> to my happy place</p>
                 </div>
                 <div class="bleet" style="border-top: 2px solid #B6E7FA; width: 90%;">
                     <span>@slappaball2</span>

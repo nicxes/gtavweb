@@ -1,6 +1,3 @@
-@font-face {
-  font-family: main;
-  src: url(/fonts/main-font.ttf); }
 a {
   text-decoration: none;
   color: black; }
@@ -100,12 +97,9 @@ button {
         font-size: 13px;
         display: inline-block;
         margin-top: 13px;
-        margin-left: 20px;
+        margin-left: 25px;
         text-align: center;
         vertical-align: center; }
-
-a, p, h1, h2, h3, h4, span {
-  font-family: main; }
 
 .startpage {
   display: block;
@@ -130,7 +124,8 @@ a, p, h1, h2, h3, h4, span {
         font-size: 17px;
         display: inline-block;
         padding: 10px;
-        color: #3c3c3c; }
+        color: #3c3c3c;
+        line-height: 25px; }
       .startpage .left .nsotd img {
         float: right;
         width: 150px;
@@ -153,7 +148,7 @@ a, p, h1, h2, h3, h4, span {
         color: #3c3c3c; }
       .startpage .left .nsotd_1 p {
         font-size: 17px;
-        line-height: 20px;
+        line-height: 25px;
         display: inline-block;
         padding: 10px;
         color: #3c3c3c; }

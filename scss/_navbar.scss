@@ -4,7 +4,6 @@ a {
 }
 
 .search {
-    font-size: 20px;
     display: inline-block;
     width: 70%;
     height: 45px;
@@ -41,6 +40,11 @@ button {
     border: none;
     border-radius: 7px;
     background: #047290;
+    &:hover {
+      background: #0194bd;
+      cursor: pointer;
+      border: 3px solid #047290;
+    }
 }
 
 

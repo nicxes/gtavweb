@@ -14,7 +14,7 @@
         </div>
         <div class="search">
             <img src="/img/search.png" alt="">
-            <input style="border: none; float: right; width: 90%; height: 97%;" type="" name="">
+            <input style="border: none; float: right; width: 90%; height: 95%;" type="" name="">
         </div>
         <button type="">RANDOM</button>
     </div>

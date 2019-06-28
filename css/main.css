@@ -3,7 +3,6 @@ a {
   color: black; }
 
 .search {
-  font-size: 20px;
   display: inline-block;
   width: 70%;
   height: 45px;
@@ -35,6 +34,10 @@ button {
   border: none;
   border-radius: 7px;
   background: #047290; }
+  button:hover {
+    background: #0194bd;
+    cursor: pointer;
+    border: 3px solid #047290; }
 
 .navbar {
   position: absolute;
@@ -103,17 +106,17 @@ button {
 
 .startpage {
   display: block;
-  width: 75%;
+  width: 76%;
   margin: 0 auto;
   margin-top: 280px;
   margin-bottom: 100px; }
   .startpage .left {
     display: inline-block;
-    width: 69%; }
+    width: 68%; }
     .startpage .left .nsotd {
       display: inline-block;
       width: 100%;
-      padding: 5px;
+      padding: 3px;
       background: #f0f0f0; }
       .startpage .left .nsotd h2 {
         font-size: 20px;
@@ -167,7 +170,7 @@ button {
       width: 100%;
       height: 150px;
       margin-top: 10px;
-      padding: 5px;
+      padding: 3px;
       background: #f0f0f0; }
       .startpage .left .wotm img {
         display: inline-block;
@@ -190,10 +193,9 @@ button {
         padding-left: 20px;
         color: #3c3c3c; }
   .startpage .right {
-    display: block;
-    float: right;
-    width: 29%;
-    margin-left: 5px; }
+    display: inline-block;
+    width: 30%;
+    margin-left: 15px; }
     .startpage .right .advertise {
       display: block;
       width: 100%;

@@ -1,3 +1,4 @@
+Gained some audience so I'm gonna rework this shit and continue
 # GTA V Web
 
 GTA V Web is a project to bring Grand Theft Auto V websites to real life
